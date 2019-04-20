@@ -5,10 +5,10 @@ public static void main(String args[]){
  Scanner sc=new Scanner(System.in);
  num=sc.nextInt();
  if(num%4==0){
-    System.out.println("YES"); 
+    System.out.println("yes"); 
   }
  else{
-    System.out.println("NO"); 
+    System.out.println("no"); 
   }
 }
 }
