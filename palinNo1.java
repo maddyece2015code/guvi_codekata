@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class palinNo{
+class palinNo1{
 public static void main(String args[]){
 int num,temp=0,r,sum;
 Scanner sc=new Scanner(System.in);
