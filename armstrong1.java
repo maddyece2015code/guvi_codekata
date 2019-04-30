@@ -18,7 +18,7 @@ while(num1<num2)
 }
 if(res==num1)
 {
-System.out.print(res+" ");
+System.out.print(res+"");
 }
 num1++;
 }
