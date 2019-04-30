@@ -8,7 +8,7 @@ public static void main(String args[])
  for(int i=1;i<=5;i++)
   {
    res=n*i;
-   System.out.print(res+"");
+   System.out.print(res+" ");
   }
 }
 }
