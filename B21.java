@@ -9,7 +9,7 @@
  * @author Madhavan
  */
 import java.util.*;
-public class B21 {
+ class B21 {
     public static void main(String args[])
     {
         float N,A,D,S;
