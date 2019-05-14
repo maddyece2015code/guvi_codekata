@@ -16,6 +16,6 @@ public class B43 {
         String S;
         S=sc.nextLine();
         String str[]=S.split(" ");
-        System.out.println(str[0]+str[1]);
+        System.out.println(str[0]+""+str[1]);
     }
 }
