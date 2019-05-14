@@ -16,9 +16,11 @@ public class B41 {
         String S;
         K=sc.nextInt();
         S=sc.next();
+        String str[]=S.split(" ");
+        K=str[1];
         for(int i=1;i<=K;i++)
         {
-            System.out.println(K);
+            System.out.println(str[0]);
         }
     }
     
