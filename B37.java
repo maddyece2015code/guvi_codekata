@@ -9,7 +9,7 @@
  * @author Madhavan
  */
 import java.util.*;
-    class B37 {
+    public class B37 {
     public static void main(String args[])
     {
         int n1,n2,temp;
