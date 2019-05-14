@@ -17,7 +17,7 @@ public class B41 {
         K=sc.nextInt();
         S=sc.next();
         String str[]=S.split(" ");
-        K=str[1];
+        K=Integer.parseInt(str[1]);
         for(int i=1;i<=K;i++)
         {
             System.out.println(str[0]);
