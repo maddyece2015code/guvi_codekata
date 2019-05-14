@@ -17,7 +17,7 @@ public class B40 {
         n=sc.nextInt();
         if(n==1)
         {
-         System.out.print(f1+" ");
+         System.out.print(f1);
         }
         else
         {
