@@ -14,8 +14,14 @@ public class B50 {
         Scanner sc=new Scanner(System.in);
         int N,f=0;
         N=sc.nextInt();
-        while(N!=0)
+        if(N==1)
         {
+            f=1;
+        }
+        else
+        {
+         while(N!=0)
+         {
             if(N%2==0)
             {
                 f=1;
@@ -25,6 +31,7 @@ public class B50 {
                 f=0;
             }
             N=N/2;
+         }
         }
         if(f==0)
         {
