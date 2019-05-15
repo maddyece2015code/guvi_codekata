@@ -12,9 +12,9 @@ import java.util.*;
 public class B44 {
     public static void main(String args[]){
         Scanner sc=new Scanner(System.in);
-        int n;
-        n=sc.nextInt();
-        if(n>=1&&n<=10)
+        int N;
+        N=sc.nextInt();
+        if(N>=1&&N<=10)
         {
             System.out.println("yes");
         }
