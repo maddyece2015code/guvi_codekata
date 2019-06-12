@@ -40,5 +40,6 @@ public class Hunt6 {
           {
                String s="unique";
                System.out.println(s);
+          }
     }
 }
