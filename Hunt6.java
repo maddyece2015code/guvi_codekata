@@ -32,6 +32,13 @@ public class Hunt6 {
                    }
                }
            }
+          if(rep!=0)
+          {
            System.out.println(rep);
+          }
+          else
+          {
+               String s="unique";
+               System.out.println(s);
     }
 }
