@@ -17,7 +17,6 @@ public class h11 {
         String out="";
         int len=s.length();
         String temp[]=s.split(" ");
-         System.out.println(temp.length);
         for(String item:temp)
         {
             String res="";
